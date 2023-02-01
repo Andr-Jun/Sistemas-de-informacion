@@ -1,0 +1,48 @@
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Sistemas de Informacion\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+<<<<<<< HEAD
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\clons_github\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.pdb
+=======
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\laragon\www\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.pdb
+>>>>>>> 6a9f451bf77505ef772933c8cde10db8fd0a0caf
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Sistemas de Informacion\SistemaVentas\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\laragon\Sistema-Ventas-Grupal-UPDS\CapaDatos\obj\Debug\CapaDatos.pdb
